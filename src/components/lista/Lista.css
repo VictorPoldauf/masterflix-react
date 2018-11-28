@@ -1,0 +1,7 @@
+.Lista  li{
+    list-style-type: none;
+}
+.Lista li{
+    display: inline;
+    padding-right: 10vh;
+}
